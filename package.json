@@ -1,0 +1,18 @@
+{
+  "name": "steamid-helpers",
+  "version": "1.0.0",
+  "description": "Various convertation functions for Steam`s IDs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "steam",
+    "steamid",
+    "partnerid",
+    "tradelink",
+    "convert"
+  ],
+  "author": "feed4rz",
+  "license": "MIT"
+}
